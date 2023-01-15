@@ -1,0 +1,148 @@
+// .home{
+//     font-family: Arial, Helvetica, sans-serif;
+//     height: 100vh;
+//     display: flex;
+//     align-items: center;
+//     justify-content: center;
+
+//     .container{
+//         height: 100%;
+//         width: 100%;
+//         display: flex;
+
+//         .sidebar{
+//             width: 279px;
+//             border-right: 1px solid;
+//             border-color: rgba(236,238,243);
+
+//             .topbar{
+//                 display: flex;
+//                 height: 56px;
+//                 width: 100%;
+
+//                 .menu{
+//                     margin-top: 14px;
+//                     border: 0;
+//                     background-color: white;
+//                     cursor: pointer;
+//                     padding-left: 10px;
+//                 }
+
+//                 .topbar-title{
+//                     font-size: 16px;
+//                     font-weight: 700;
+//                     padding-left: 80px;
+//                     padding-right: 75px;
+//                 }
+
+//                 .write{
+//                     border: 0;
+//                     background-color: white;
+//                     cursor: pointer;
+//                     padding-left: 10px;
+//                 }
+//             }
+
+//             .search-field{
+//                 display: flex;
+//                 height: 32px;
+//                 width: 214px;
+//                 margin-left:12px;
+//                 padding-left: 38px;
+//                 font-size: 15px;
+//                 border: 0;
+//                 outline: none;
+//                 border-radius: 16px;
+//                 background-color: #f3f5f8;
+//                 background-image: url(data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20fill%3D%22none%22%20fill-rule%3D%22evenodd%22%20opacity%3D%22.92%22%3E%3Cpath%20opacity%3D%22.1%22%20d%3D%22M0%200H16V16H0z%22%2F%3E%3Cpath%20d%3D%22M6.5%201a5.5%205.5%200%200%201%204.383%208.823l3.896%203.9a.75.75%200%200%201-1.061%201.06l-3.895-3.9A5.5%205.5%200%201%201%206.5%201zm0%201.5a4%204%200%201%200%200%208%204%204%200%200%200%200-8z%22%20fill%3D%22%23818c99%22%20fill-rule%3D%22nonzero%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E);
+//                 background-repeat: no-repeat;
+//                 background-position: 15px;
+//             }
+
+//             .chats{
+//                 display: flex;
+//                 height: 70px;
+//                 border: none;
+//                 outline: none;
+
+
+//                 .recent-chat{
+//                     display: flex;
+//                     border: 0;
+//                     outline: none;
+//                     background-color: white;
+//                     width: 100%;
+
+
+//                     .avatarbox{
+//                         padding-top: 8px;
+//                         height: 50px;
+//                         width: 50px;
+//                         position: absolute;
+
+//                         img{
+//                             display: flex;
+//                             background-color: #38ed80;
+//                             background-size: 20px;
+//                             border-radius: 50%;
+//                             height: 50px;
+//                             width: 50px;
+//                         }
+//                     }
+
+//                     .recent-chat__title{
+//                         display: flex;
+//                         padding-top: 10px;
+//                         color: #00b84d;
+//                         font-size: 15px;
+//                         padding-left: 60px;
+//                     }
+
+//                     .recent-chat__subtitle{
+//                         display: flex;
+//                         font-size: 13px;
+//                         padding-top: 30px;
+//                         color: #838690;
+//                     }
+
+//                     .recent-chat__date{
+//                         display: flex;
+//                         font-size: 12px;
+//                         padding-top: 10px;
+//                         padding-left: 40px;
+//                         color: #838690;
+//                     }
+//                 }
+
+                
+//             }
+//         }
+
+//         .chat{
+//             flex: 2;
+
+//             .dialogpage-topbar{
+//                 display: flex;
+//                 border-bottom: 1px solid;
+//                 padding-left: 58px;
+//                 padding-top: 19px;
+//                 padding-bottom: 18px;
+//                 border-color: rgba(236,238,243);
+//             }
+
+//             .avatarbox-favorite{
+//                 height: 29px;
+//                 width: 29px;
+//                 background-color: #38ed80;
+//                 border-radius: 50%;
+                
+//                 img{
+//                     padding-top: 5px;
+//                     padding-left: 6px;
+//                     height: 17px;
+//                     width: 17px;
+//                 }
+//             }
+//         }
+//     }
+// }
